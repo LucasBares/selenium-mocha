@@ -1,6 +1,0 @@
-{
-    "input_email": "input[name=email]",
-    "input_password": "input[name=password]",
-    "login_button": "/html/body/div/div/div/div/div/form/div/div/div/div/button[2]",
-    "text_input": "div[data-slate-object='block']"
-}
